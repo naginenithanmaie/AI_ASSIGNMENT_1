@@ -1,1 +1,4 @@
 # AI_ASSIGNMENT_1
+DIVERSE_5
+
+Course: AI(2026)
